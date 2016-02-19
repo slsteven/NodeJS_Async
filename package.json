@@ -1,0 +1,12 @@
+{
+  "name": "asyncexample",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "latest",
+    "body-parser": "latest",
+    "cheerio": "^0.20.0",
+    "express": "~4.2.0",
+    "mongoose": "latest",
+    "request": "latest"
+  }
+}
